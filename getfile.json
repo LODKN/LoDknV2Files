@@ -1,0 +1,29 @@
+{
+  
+"result": true,
+  
+"plugins_": {
+  
+"AddedMe.lua":"[ملف امر منو ضافني](https://t.me/lodkn/3)",
+  
+"TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/lodkn4)",
+  
+"TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/lodkn/5)",
+  
+"ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/lodkn/6)",
+      
+"MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/lodkn7)",
+  
+"ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/lodkn/8)",
+  
+"ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/lodkn/9)",
+    
+"ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/lodkn/10)",
+  
+"ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/lodkn/11)",
+  
+"AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/lodkn/12)",
+  
+}
+  
+}
